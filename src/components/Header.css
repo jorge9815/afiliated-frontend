@@ -1,0 +1,12 @@
+.headerCont {
+    align-content: center;
+    background-color: #3c12de;
+    box-shadow: 2px 0px 8px 0px;
+    display: flex;
+    width: 100%;
+    height: 4rem;
+}
+#headertext{
+    color: aliceblue;
+    margin-left: 12px;
+}

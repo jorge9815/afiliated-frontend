@@ -1,0 +1,42 @@
+#input{
+    width: 100%;
+    border-radius:12px;
+}
+
+#editArea{
+    width: 100%;
+}
+
+#categoryAndAuthor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 93%;
+}
+#textarea{
+    width: 93%;
+}
+#textoContainer{
+    width: 100%;  
+}
+#textMainContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.editContainer{
+    box-shadow: 2px 0px 8px 0px;
+    min-width: 30%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+.titleInputContainer{
+    padding: 20px 12px 0px 0px;
+    border-radius: 12px;
+}
+.textInput{
+    width: 100%;
+}
